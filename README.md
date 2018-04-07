@@ -1,9 +1,4 @@
 Delta
 ===========
 
-Python with delta compolex.
-
-## Requirements
-
-- Python >= 3.4
-- PyQuery
+This project moved to [castaneai/sankaku](https://github.com/castaneai/sankaku)
